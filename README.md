@@ -32,8 +32,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
                  
 <ul> 
   <li><a href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java%2012.0-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
-  </a></li>                                                                                                                   
+    <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
+  </a></li>
+  <li><a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot_2.1.6-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
+  </a></li>                                                                                                                     
+  <li><a href="https://projectlombok.org/">
+    <img src="https://img.shields.io/badge/Lombok_1.18.8-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
+  </a></li>                                                                                                                     
 </ul>                            
                                                                                                                                        
 
