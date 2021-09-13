@@ -1,9 +1,7 @@
-<p align="center"> 
-      <img src="https://avatars.githubusercontent.com/u/48964967?v=4 width="350px" height="400px"/>
-      <img src="https://static.wixstatic.com/media/b62a2d_c2df19675c714549aaa69b335bf37e13~mv2.png/v1/fill/w_188,h_188,al_c,q_85,usm_0.66_1.00_0.01/monitec_2.webp" alt="monitec_2.png" style="width: 94px; height: 94px; object-fit: cover; object-position: 50% 50%;">  
-     
-                                                                                                                                                 
-<p align="center"> 
+
+ <p align="center">
+    <img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png" width="750px" height="400px"/>
+ </p>
 
 ## 💻 ECI-MONITOR
  
@@ -90,6 +88,18 @@ além disto é bom ter um editor para trabalhar com o código como Eclipse ou o 
 O conteúdo referente as features do ECI-MONITOR se encontra no local  do link abaixo.
 
 https://socincompany.atlassian.net/wiki/spaces/E
+                                                                                                                                           
+                                                                                                                                           
+## 🤝 Contribuidores
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/gustavogabr"><img src="https://avatars.githubusercontent.com/u/13054668?v=4" width="100px;" alt="Gustavo"/><br/><sub>
+        <b>Gustavo Gabriel da Silva</b></sub></a><br/><a href="#" title="Code">💻</a></td>                                                                   
+    <td align="center"><a href="https://github.com/dutraRafael13"><img src="https://avatars.githubusercontent.com/u/41239955?v=4" width="100px;" alt=""/><br/><sub><b>Rafael</b>          </sub></a><br /><a href="#" title="Code">👀</a></td>
+    <td align="center"><a href=https://github.com/DavidaSilva79><img src="https://avatars.githubusercontent.com/u/45698040?v=4" width="100px;" alt=""/><br /><sub><b>Davi                   Andrade</b></sub></a><br /><a href="#" title="Code">💻</a></td>        
+  </tr>
+</table>
 
 ## 😃 Autor
 
